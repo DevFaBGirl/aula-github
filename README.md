@@ -10,3 +10,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+// Código omitido. 
+
+<h1>Descubra o <span class="container__texto-azul">numero secreto</span>
+
+// Código omitido. 
